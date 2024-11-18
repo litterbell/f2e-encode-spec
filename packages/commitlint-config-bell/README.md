@@ -1,0 +1,3 @@
+# `commintlint-config-bell`
+
+

@@ -1,0 +1,2 @@
+
+# `markdonwnlint-config-bell`

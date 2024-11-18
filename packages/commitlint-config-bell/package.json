@@ -1,0 +1,19 @@
+{
+  "name": "commintlint-config-bell",
+  "version": "0.0.1",
+  "description": "Git规范",
+  "author": "bell <876662727@qq.com>",
+  "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litterbell/f2e-encode-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litterbell/f2e-encode-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}

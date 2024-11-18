@@ -1,0 +1,32 @@
+{
+  "name": "markdonwnlint-config-bell",
+  "version": "0.0.1",
+  "description": "文档规范",
+  "keywords": [
+    "markdown、lint"
+  ],
+  "author": "bell <876662727@qq.com>",
+  "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",
+  "license": "ISC",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litterbell/f2e-encode-spec.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/markdonwnlint-config-bell.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/litterbell/f2e-encode-spec/issues"
+  }
+}

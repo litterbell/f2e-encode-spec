@@ -2,10 +2,16 @@
   "name": "commintlint-config-bell",
   "version": "0.0.1",
   "description": "Git规范",
+  "keywords": [
+    "git、commit、commitlint"
+  ],
   "author": "bell <876662727@qq.com>",
   "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",
   "license": "ISC",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/litterbell/f2e-encode-spec.git"

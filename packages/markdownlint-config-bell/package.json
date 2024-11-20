@@ -1,6 +1,6 @@
 {
   "name": "markdonwnlint-config-bell",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "文档规范",
   "keywords": [
     "markdown、lint"

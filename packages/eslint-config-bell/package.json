@@ -40,7 +40,7 @@
     "vue-eslint-parser": "^7.3.0"
   },
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",

@@ -11,6 +11,9 @@
     "style",
     "lint"
   ],
+  "scripts": {
+    "test": "jest"
+  },
   "peerDependencies": {
     "stylelint": ">=8.3.0",
     "stylelint-scss": ">=2.0.0"
@@ -24,8 +27,8 @@
     "type": "git",
     "url": "git+https://github.com/litterbell/f2e-encode-spec.git"
   },
-  "scripts": {
-    "test": "jest"
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
     "url": "https://github.com/litterbell/f2e-encode-spec/issues"

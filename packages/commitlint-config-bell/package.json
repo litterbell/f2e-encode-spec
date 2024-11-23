@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config-bell",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Git规范",
   "keywords": [
     "git、commit、commitlint"

@@ -12,3 +12,9 @@ npm install encode-f2elint -g
 ```
 
 安装完成后，可执行 `encode-f2elint -h` 以验证安装成功。
+
+## 使用
+
+#### `encode-f2elint init`：一键接入
+
+在项目根目录执行 `encode-f2elint init`，即可一键接入规约，为项目安装规约 `Lint` 所需的依赖和配置

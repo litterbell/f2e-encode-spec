@@ -11,6 +11,9 @@
     "build": "lerna run build --stream",
     "publish": "lerna publish",
     "lint": "markdownlint README.md",
+    "deploy": "bash deploy.sh",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "keywords": [

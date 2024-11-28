@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: f2e
+heroText: f2elint
 tagline: 前端编码规范工程化
 actionText: 立刻进入 →
 actionLink: /coding/html.md

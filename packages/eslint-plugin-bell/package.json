@@ -2,7 +2,7 @@
   "name": "eslint-plugin-bell",
   "version": "0.0.19",
   "description": "自定义eslint插件",
-  "author": "bell <876662727@qq.com>",
+  "author": "bell <trao2021@163.com>",
   "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",
   "license": "ISC",
   "main": "src/index.js",

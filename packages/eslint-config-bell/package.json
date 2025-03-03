@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bell",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "JavaScript TypeScript Node 规范",
   "author": "bell <trao2021@163.com>",
   "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",

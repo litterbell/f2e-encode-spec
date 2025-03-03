@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-bell",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "自定义eslint插件",
   "author": "bell <trao2021@163.com>",
   "homepage": "https://github.com/litterbell/f2e-encode-spec#readme",
